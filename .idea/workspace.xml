@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4adcd0fd-d986-4279-b2ed-ff8ba4ccd3b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6mHEwZXngINXhTazUYJN8bkyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4adcd0fd-d986-4279-b2ed-ff8ba4ccd3b8" name="Default Changelist" comment="" />
+      <created>1572788829147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572788829147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="330" width="579" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576315234189">
+      <screen x="70" y="27" width="1210" height="997" />
+    </state>
+    <state x="380" y="330" width="579" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1210.997@70.27.1210.997" timestamp="1576315234189" />
+    <state x="278" y="112" width="773" height="841" key="FileDocumentManager.FileCacheConflict" timestamp="1576330586302">
+      <screen x="70" y="27" width="1210" height="997" />
+    </state>
+    <state x="278" y="112" width="773" height="841" key="FileDocumentManager.FileCacheConflict/70.27.1210.997@70.27.1210.997" timestamp="1576330586302" />
+    <state x="164" y="160" key="SettingsEditor" timestamp="1575718976304">
+      <screen x="70" y="27" width="1210" height="997" />
+    </state>
+    <state x="164" y="160" key="SettingsEditor/70.27.1210.997@70.27.1210.997" timestamp="1575718976304" />
+    <state x="331" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1581925069489">
+      <screen x="70" y="27" width="1210" height="997" />
+    </state>
+    <state x="331" y="353" key="com.intellij.ide.util.TipDialog/70.27.1210.997@70.27.1210.997" timestamp="1581925069489" />
+    <state x="338" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1576316525130">
+      <screen x="70" y="27" width="1210" height="997" />
+    </state>
+    <state x="338" y="245" width="672" height="678" key="search.everywhere.popup/70.27.1210.997@70.27.1210.997" timestamp="1576316525130" />
+  </component>
+</project>
